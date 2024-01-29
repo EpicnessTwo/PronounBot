@@ -1,0 +1,16 @@
+{
+  "name": "pronounsbot",
+  "version": "1.0.0",
+  "description": "A pronouns bot for Discord",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EpicKitty",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1"
+  }
+}
